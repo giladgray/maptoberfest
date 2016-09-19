@@ -1,0 +1,924 @@
+{
+  "type" : "FeatureCollection",
+  "features" : [ {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.5640168, 50.047604 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20160916T103841+0200",
+      "endTime" : "20160916T105023+0200",
+      "place" : {
+        "id" : 354024194,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 50.047604,
+          "lon" : 8.5640168
+        }
+      },
+      "lastUpdate" : "20160916T100155Z",
+      "date" : "20160916"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.56392, 50.04097 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20160916T110455+0200",
+      "endTime" : "20160916T110651+0200",
+      "place" : {
+        "id" : 354234447,
+        "name" : "Frankfurt Airport",
+        "type" : "facebook",
+        "facebookPlaceId" : "118428791504396",
+        "location" : {
+          "lat" : 50.04097,
+          "lon" : 8.56392
+        }
+      },
+      "lastUpdate" : "20160916T160819Z",
+      "date" : "20160916"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.5667436, 50.048752 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20160916T111052+0200",
+      "endTime" : "20160916T114104+0200",
+      "place" : {
+        "id" : 354024196,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 50.048752,
+          "lon" : 8.5667436
+        }
+      },
+      "lastUpdate" : "20160916T100155Z",
+      "date" : "20160916"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.5629344, 50.045709 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20160916T115143+0200",
+      "endTime" : "20160916T123001+0200",
+      "place" : {
+        "id" : 354024197,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 50.045709,
+          "lon" : 8.5629344
+        }
+      },
+      "lastUpdate" : "20160916T130429Z",
+      "date" : "20160916"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.266907340646, 50.106497849559 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20160916T133318+0200",
+      "endTime" : "20160916T133826+0200",
+      "place" : {
+        "id" : 354237817,
+        "name" : "Václav Havel Airport Prague / Letiště Václava Havla Praha",
+        "type" : "facebook",
+        "facebookPlaceId" : "120717197981284",
+        "location" : {
+          "lat" : 50.106497849559,
+          "lon" : 14.266907340646
+        }
+      },
+      "lastUpdate" : "20160916T161409Z",
+      "date" : "20160916"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.266907340646, 50.106497849559 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20160916T134449+0200",
+      "endTime" : "20160916T135147+0200",
+      "place" : {
+        "id" : 354237817,
+        "name" : "Václav Havel Airport Prague / Letiště Václava Havla Praha",
+        "type" : "facebook",
+        "facebookPlaceId" : "120717197981284",
+        "location" : {
+          "lat" : 50.106497849559,
+          "lon" : 14.266907340646
+        }
+      },
+      "lastUpdate" : "20160916T161420Z",
+      "date" : "20160916"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.43965, 50.09334 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20160916T142546+0200",
+      "endTime" : "20160916T155639+0200",
+      "place" : {
+        "id" : 354123063,
+        "name" : "Hilton Prague",
+        "type" : "facebook",
+        "facebookPlaceId" : "115479358466037",
+        "location" : {
+          "lat" : 50.09334,
+          "lon" : 14.43965
+        }
+      },
+      "lastUpdate" : "20160916T160655Z",
+      "date" : "20160916"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.43965, 50.09334 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20160916T164513+0200",
+      "endTime" : "20160916T170203+0200",
+      "place" : {
+        "id" : 354123063,
+        "name" : "Hilton Prague",
+        "type" : "facebook",
+        "facebookPlaceId" : "115479358466037",
+        "location" : {
+          "lat" : 50.09334,
+          "lon" : 14.43965
+        }
+      },
+      "lastUpdate" : "20160916T160655Z",
+      "date" : "20160916"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.45941103934164, 50.07837613694272 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20160916T171255+0200",
+      "endTime" : "20160916T190244+0200",
+      "place" : {
+        "id" : 354233375,
+        "name" : "Airbnb",
+        "type" : "home",
+        "location" : {
+          "lat" : 50.07837613694272,
+          "lon" : 14.45941103934164
+        }
+      },
+      "lastUpdate" : "20160916T174650Z",
+      "date" : "20160916"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.438397, 50.075362 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20160916T192631+0200",
+      "endTime" : "20160916T203626+0200",
+      "place" : {
+        "id" : 354295130,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 50.075362,
+          "lon" : 14.438397
+        }
+      },
+      "lastUpdate" : "20160916T191843Z",
+      "date" : "20160916"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.45941103934164, 50.07837613694272 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20160916T205930+0200",
+      "endTime" : "20160917T113750+0200",
+      "place" : {
+        "id" : 354233375,
+        "name" : "Airbnb",
+        "type" : "home",
+        "location" : {
+          "lat" : 50.07837613694272,
+          "lon" : 14.45941103934164
+        }
+      },
+      "lastUpdate" : "20160917T104629Z",
+      "date" : "20160916"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.45941103934164, 50.07837613694272 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20160916T205930+0200",
+      "endTime" : "20160917T113750+0200",
+      "place" : {
+        "id" : 354233375,
+        "name" : "Airbnb",
+        "type" : "home",
+        "location" : {
+          "lat" : 50.07837613694272,
+          "lon" : 14.45941103934164
+        }
+      },
+      "lastUpdate" : "20160917T104629Z",
+      "date" : "20160917"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.454209783313, 50.07820377029 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20160917T114432+0200",
+      "endTime" : "20160917T130720+0200",
+      "place" : {
+        "id" : 354703364,
+        "name" : "Martin's bistro",
+        "type" : "facebook",
+        "facebookPlaceId" : "524106154292232",
+        "location" : {
+          "lat" : 50.07820377029,
+          "lon" : 14.454209783313
+        }
+      },
+      "lastUpdate" : "20160917T144117Z",
+      "date" : "20160917"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.45023, 50.07848 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20160917T131535+0200",
+      "endTime" : "20160917T131747+0200",
+      "place" : {
+        "id" : 354764614,
+        "name" : "Farmářské trhy na Jiřáku",
+        "type" : "facebook",
+        "facebookPlaceId" : "119335948146835",
+        "location" : {
+          "lat" : 50.07848,
+          "lon" : 14.45023
+        }
+      },
+      "lastUpdate" : "20160917T144237Z",
+      "date" : "20160917"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.421191, 50.087636 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20160917T141207+0200",
+      "endTime" : "20160917T142353+0200",
+      "place" : {
+        "id" : 354764616,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 50.087636,
+          "lon" : 14.421191
+        }
+      },
+      "lastUpdate" : "20160917T130257Z",
+      "date" : "20160917"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.42143, 50.08702 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20160917T142903+0200",
+      "endTime" : "20160917T152622+0200",
+      "place" : {
+        "id" : 354793080,
+        "name" : "Restaurant White Horse",
+        "type" : "facebook",
+        "facebookPlaceId" : "1374527742875779",
+        "location" : {
+          "lat" : 50.08702,
+          "lon" : 14.42143
+        }
+      },
+      "lastUpdate" : "20160917T144200Z",
+      "date" : "20160917"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.421176103759, 50.087416367586 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20160917T152903+0200",
+      "endTime" : "20160917T154040+0200",
+      "place" : {
+        "id" : 354866746,
+        "name" : "Tyn Cathedral",
+        "type" : "facebook",
+        "facebookPlaceId" : "329441580477982",
+        "location" : {
+          "lat" : 50.087416367586,
+          "lon" : 14.421176103759
+        }
+      },
+      "lastUpdate" : "20160917T144455Z",
+      "date" : "20160917"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.41563, 50.0888599 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20160917T155256+0200",
+      "endTime" : "20160917T160428+0200",
+      "place" : {
+        "id" : 354865372,
+        "name" : "Namesti Jana Palacha",
+        "type" : "facebook",
+        "facebookPlaceId" : "327614037424016",
+        "location" : {
+          "lat" : 50.0888599,
+          "lon" : 14.41563
+        }
+      },
+      "lastUpdate" : "20160917T144255Z",
+      "date" : "20160917"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.41861, 50.08914 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20160917T162211+0200",
+      "endTime" : "20160917T175920+0200",
+      "place" : {
+        "id" : 354863798,
+        "name" : "KAFKA Snob Food",
+        "type" : "facebook",
+        "facebookPlaceId" : "332125586894921",
+        "location" : {
+          "lat" : 50.08914,
+          "lon" : 14.41861
+        }
+      },
+      "lastUpdate" : "20160917T162912Z",
+      "date" : "20160917"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.41563, 50.0888599 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20160917T181304+0200",
+      "endTime" : "20160917T181723+0200",
+      "place" : {
+        "id" : 354865372,
+        "name" : "Namesti Jana Palacha",
+        "type" : "facebook",
+        "facebookPlaceId" : "327614037424016",
+        "location" : {
+          "lat" : 50.0888599,
+          "lon" : 14.41563
+        }
+      },
+      "lastUpdate" : "20160917T162912Z",
+      "date" : "20160917"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.41779, 50.0864199 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20160917T183757+0200",
+      "endTime" : "20160917T201900+0200",
+      "place" : {
+        "id" : 355011630,
+        "name" : "Clam-Gallas Palace",
+        "type" : "facebook",
+        "facebookPlaceId" : "251168314970435",
+        "location" : {
+          "lat" : 50.0864199,
+          "lon" : 14.41779
+        }
+      },
+      "lastUpdate" : "20160917T194806Z",
+      "date" : "20160917"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.41598, 50.08737 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20160917T202248+0200",
+      "endTime" : "20160917T213309+0200",
+      "place" : {
+        "id" : 355071956,
+        "name" : "La Bottega di Finestra",
+        "type" : "facebook",
+        "facebookPlaceId" : "262070067196568",
+        "location" : {
+          "lat" : 50.08737,
+          "lon" : 14.41598
+        }
+      },
+      "lastUpdate" : "20160917T194821Z",
+      "date" : "20160917"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.45941103934164, 50.07837613694272 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20160917T214244+0200",
+      "endTime" : "20160918T120158+0200",
+      "place" : {
+        "id" : 354233375,
+        "name" : "Airbnb",
+        "type" : "home",
+        "location" : {
+          "lat" : 50.07837613694272,
+          "lon" : 14.45941103934164
+        }
+      },
+      "lastUpdate" : "20160918T113744Z",
+      "date" : "20160917"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.45941103934164, 50.07837613694272 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20160917T214244+0200",
+      "endTime" : "20160918T120158+0200",
+      "place" : {
+        "id" : 354233375,
+        "name" : "Airbnb",
+        "type" : "home",
+        "location" : {
+          "lat" : 50.07837613694272,
+          "lon" : 14.45941103934164
+        }
+      },
+      "lastUpdate" : "20160918T113744Z",
+      "date" : "20160918"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.44634, 50.0809 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20160918T121438+0200",
+      "endTime" : "20160918T133558+0200",
+      "place" : {
+        "id" : 355449393,
+        "name" : "Peter's Apartment",
+        "type" : "facebook",
+        "facebookPlaceId" : "464072037115246",
+        "location" : {
+          "lat" : 50.0809,
+          "lon" : 14.44634
+        }
+      },
+      "lastUpdate" : "20160918T170649Z",
+      "date" : "20160918"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.44634, 50.0809 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20160918T133559+0200",
+      "endTime" : "20160918T134812+0200",
+      "place" : {
+        "id" : 355449393,
+        "name" : "Peter's Apartment",
+        "type" : "facebook",
+        "facebookPlaceId" : "464072037115246",
+        "location" : {
+          "lat" : 50.0809,
+          "lon" : 14.44634
+        }
+      },
+      "lastUpdate" : "20160918T170622Z",
+      "date" : "20160918"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.44634, 50.0809 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20160918T134812+0200",
+      "endTime" : "20160918T135534+0200",
+      "place" : {
+        "id" : 355449393,
+        "name" : "Peter's Apartment",
+        "type" : "facebook",
+        "facebookPlaceId" : "464072037115246",
+        "location" : {
+          "lat" : 50.0809,
+          "lon" : 14.44634
+        }
+      },
+      "lastUpdate" : "20160918T170649Z",
+      "date" : "20160918"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.41867, 50.08878 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20160918T143718+0200",
+      "endTime" : "20160918T145735+0200",
+      "place" : {
+        "id" : 355504197,
+        "name" : "Maiselova Synagoga",
+        "type" : "facebook",
+        "facebookPlaceId" : "171512039567430",
+        "location" : {
+          "lat" : 50.08878,
+          "lon" : 14.41867
+        }
+      },
+      "lastUpdate" : "20160918T170739Z",
+      "date" : "20160918"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.417, 50.08928 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20160918T150035+0200",
+      "endTime" : "20160918T152731+0200",
+      "place" : {
+        "id" : 355504198,
+        "name" : "Pinkasova Synagoga",
+        "type" : "facebook",
+        "facebookPlaceId" : "166085953515640",
+        "location" : {
+          "lat" : 50.08928,
+          "lon" : 14.417
+        }
+      },
+      "lastUpdate" : "20160918T170814Z",
+      "date" : "20160918"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.417, 50.08928 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20160918T153234+0200",
+      "endTime" : "20160918T154107+0200",
+      "place" : {
+        "id" : 355504198,
+        "name" : "Pinkasova Synagoga",
+        "type" : "facebook",
+        "facebookPlaceId" : "166085953515640",
+        "location" : {
+          "lat" : 50.08928,
+          "lon" : 14.417
+        }
+      },
+      "lastUpdate" : "20160918T170814Z",
+      "date" : "20160918"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.416890973239, 50.090090869973 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20160918T154648+0200",
+      "endTime" : "20160918T160743+0200",
+      "place" : {
+        "id" : 355560449,
+        "name" : "Jewish Cemetery",
+        "type" : "facebook",
+        "facebookPlaceId" : "378632925548880",
+        "location" : {
+          "lat" : 50.090090869973,
+          "lon" : 14.416890973239
+        }
+      },
+      "lastUpdate" : "20160918T170839Z",
+      "date" : "20160918"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.418611111111, 50.09 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20160918T161159+0200",
+      "endTime" : "20160918T161847+0200",
+      "place" : {
+        "id" : 355560450,
+        "name" : "Old New Synagogue",
+        "type" : "facebook",
+        "facebookPlaceId" : "704135196283498",
+        "location" : {
+          "lat" : 50.09,
+          "lon" : 14.418611111111
+        }
+      },
+      "lastUpdate" : "20160918T170847Z",
+      "date" : "20160918"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.424790163413, 50.097577478179 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20160918T164051+0200",
+      "endTime" : "20160918T171027+0200",
+      "place" : {
+        "id" : 355615980,
+        "name" : "Národní technické muzeum",
+        "type" : "facebook",
+        "facebookPlaceId" : "182723435094805",
+        "location" : {
+          "lat" : 50.097577478179,
+          "lon" : 14.424790163413
+        }
+      },
+      "lastUpdate" : "20160918T170926Z",
+      "date" : "20160918"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.424790163413, 50.097577478179 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20160918T171420+0200",
+      "endTime" : "20160918T175922+0200",
+      "place" : {
+        "id" : 355615980,
+        "name" : "Národní technické muzeum",
+        "type" : "facebook",
+        "facebookPlaceId" : "182723435094805",
+        "location" : {
+          "lat" : 50.097577478179,
+          "lon" : 14.424790163413
+        }
+      },
+      "lastUpdate" : "20160918T170926Z",
+      "date" : "20160918"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.43214094971745, 50.08180315986305 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20160918T183256+0200",
+      "endTime" : "20160918T183459+0200",
+      "place" : {
+        "id" : 355646141,
+        "name" : "(Recalibrating)",
+        "type" : "user",
+        "location" : {
+          "lat" : 50.08180315986305,
+          "lon" : 14.43214094971745
+        }
+      },
+      "lastUpdate" : "20160918T171020Z",
+      "date" : "20160918"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.41878, 50.08199 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20160918T185235+0200",
+      "endTime" : "20160918T201921+0200",
+      "place" : {
+        "id" : 355646142,
+        "name" : "Café Louvre",
+        "type" : "facebook",
+        "facebookPlaceId" : "162666183794832",
+        "location" : {
+          "lat" : 50.08199,
+          "lon" : 14.41878
+        }
+      },
+      "lastUpdate" : "20160918T191520Z",
+      "date" : "20160918"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.419999, 50.081827 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20160918T201921+0200",
+      "endTime" : "20160918T202832+0200",
+      "place" : {
+        "id" : 355712867,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 50.081827,
+          "lon" : 14.419999
+        }
+      },
+      "lastUpdate" : "20160918T194556Z",
+      "date" : "20160918"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.45941103934164, 50.07837613694272 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20160918T212312+0200",
+      "endTime" : "20160919T100516+0200",
+      "place" : {
+        "id" : 354233375,
+        "name" : "Airbnb",
+        "type" : "home",
+        "location" : {
+          "lat" : 50.07837613694272,
+          "lon" : 14.45941103934164
+        }
+      },
+      "lastUpdate" : "20160919T093342Z",
+      "date" : "20160918"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.45941103934164, 50.07837613694272 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20160918T212312+0200",
+      "endTime" : "20160919T100516+0200",
+      "place" : {
+        "id" : 354233375,
+        "name" : "Airbnb",
+        "type" : "home",
+        "location" : {
+          "lat" : 50.07837613694272,
+          "lon" : 14.45941103934164
+        }
+      },
+      "lastUpdate" : "20160919T093342Z",
+      "date" : "20160919"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.45941103934164, 50.07837613694272 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20160919T101045+0200",
+      "endTime" : "20160919T102359+0200",
+      "place" : {
+        "id" : 354233375,
+        "name" : "Airbnb",
+        "type" : "home",
+        "location" : {
+          "lat" : 50.07837613694272,
+          "lon" : 14.45941103934164
+        }
+      },
+      "lastUpdate" : "20160919T105511Z",
+      "date" : "20160919"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.41463, 50.085224 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20160919T123309+0200",
+      "endTime" : "20160919T125705+0200",
+      "place" : {
+        "id" : 356003074,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 50.085224,
+          "lon" : 14.41463
+        }
+      },
+      "lastUpdate" : "20160919T105707Z",
+      "date" : "20160919"
+    }
+  } ]
+}

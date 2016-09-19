@@ -1,0 +1,247 @@
+{
+  "type" : "FeatureCollection",
+  "features" : [ {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.5640168, 50.047604 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20160916T103841+0200",
+      "endTime" : "20160916T105023+0200",
+      "place" : {
+        "id" : 354024194,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 50.047604,
+          "lon" : 8.5640168
+        }
+      },
+      "lastUpdate" : "20160916T100155Z",
+      "date" : "20160916"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.56392, 50.04097 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20160916T110455+0200",
+      "endTime" : "20160916T110651+0200",
+      "place" : {
+        "id" : 354234447,
+        "name" : "Frankfurt Airport",
+        "type" : "facebook",
+        "facebookPlaceId" : "118428791504396",
+        "location" : {
+          "lat" : 50.04097,
+          "lon" : 8.56392
+        }
+      },
+      "lastUpdate" : "20160916T160819Z",
+      "date" : "20160916"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.5667436, 50.048752 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20160916T111052+0200",
+      "endTime" : "20160916T114104+0200",
+      "place" : {
+        "id" : 354024196,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 50.048752,
+          "lon" : 8.5667436
+        }
+      },
+      "lastUpdate" : "20160916T100155Z",
+      "date" : "20160916"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.5629344, 50.045709 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20160916T115143+0200",
+      "endTime" : "20160916T123001+0200",
+      "place" : {
+        "id" : 354024197,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 50.045709,
+          "lon" : 8.5629344
+        }
+      },
+      "lastUpdate" : "20160916T130429Z",
+      "date" : "20160916"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.266907340646, 50.106497849559 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20160916T133318+0200",
+      "endTime" : "20160916T133826+0200",
+      "place" : {
+        "id" : 354237817,
+        "name" : "Václav Havel Airport Prague / Letiště Václava Havla Praha",
+        "type" : "facebook",
+        "facebookPlaceId" : "120717197981284",
+        "location" : {
+          "lat" : 50.106497849559,
+          "lon" : 14.266907340646
+        }
+      },
+      "lastUpdate" : "20160916T161409Z",
+      "date" : "20160916"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.266907340646, 50.106497849559 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20160916T134449+0200",
+      "endTime" : "20160916T135147+0200",
+      "place" : {
+        "id" : 354237817,
+        "name" : "Václav Havel Airport Prague / Letiště Václava Havla Praha",
+        "type" : "facebook",
+        "facebookPlaceId" : "120717197981284",
+        "location" : {
+          "lat" : 50.106497849559,
+          "lon" : 14.266907340646
+        }
+      },
+      "lastUpdate" : "20160916T161420Z",
+      "date" : "20160916"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.43965, 50.09334 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20160916T142546+0200",
+      "endTime" : "20160916T155639+0200",
+      "place" : {
+        "id" : 354123063,
+        "name" : "Hilton Prague",
+        "type" : "facebook",
+        "facebookPlaceId" : "115479358466037",
+        "location" : {
+          "lat" : 50.09334,
+          "lon" : 14.43965
+        }
+      },
+      "lastUpdate" : "20160916T160655Z",
+      "date" : "20160916"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.43965, 50.09334 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20160916T164513+0200",
+      "endTime" : "20160916T170203+0200",
+      "place" : {
+        "id" : 354123063,
+        "name" : "Hilton Prague",
+        "type" : "facebook",
+        "facebookPlaceId" : "115479358466037",
+        "location" : {
+          "lat" : 50.09334,
+          "lon" : 14.43965
+        }
+      },
+      "lastUpdate" : "20160916T160655Z",
+      "date" : "20160916"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.45941103934164, 50.07837613694272 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20160916T171255+0200",
+      "endTime" : "20160916T190244+0200",
+      "place" : {
+        "id" : 354233375,
+        "name" : "Airbnb",
+        "type" : "home",
+        "location" : {
+          "lat" : 50.07837613694272,
+          "lon" : 14.45941103934164
+        }
+      },
+      "lastUpdate" : "20160916T174650Z",
+      "date" : "20160916"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.438397, 50.075362 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20160916T192631+0200",
+      "endTime" : "20160916T203626+0200",
+      "place" : {
+        "id" : 354295130,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 50.075362,
+          "lon" : 14.438397
+        }
+      },
+      "lastUpdate" : "20160916T191843Z",
+      "date" : "20160916"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.45941103934164, 50.07837613694272 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20160916T205930+0200",
+      "endTime" : "20160917T113750+0200",
+      "place" : {
+        "id" : 354233375,
+        "name" : "Airbnb",
+        "type" : "home",
+        "location" : {
+          "lat" : 50.07837613694272,
+          "lon" : 14.45941103934164
+        }
+      },
+      "lastUpdate" : "20160917T104629Z",
+      "date" : "20160916"
+    }
+  } ]
+}

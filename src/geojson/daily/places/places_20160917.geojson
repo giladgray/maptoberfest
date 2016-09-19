@@ -1,0 +1,276 @@
+{
+  "type" : "FeatureCollection",
+  "features" : [ {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.45941103934164, 50.07837613694272 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20160916T205930+0200",
+      "endTime" : "20160917T113750+0200",
+      "place" : {
+        "id" : 354233375,
+        "name" : "Airbnb",
+        "type" : "home",
+        "location" : {
+          "lat" : 50.07837613694272,
+          "lon" : 14.45941103934164
+        }
+      },
+      "lastUpdate" : "20160917T104629Z",
+      "date" : "20160917"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.454209783313, 50.07820377029 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20160917T114432+0200",
+      "endTime" : "20160917T130720+0200",
+      "place" : {
+        "id" : 354703364,
+        "name" : "Martin's bistro",
+        "type" : "facebook",
+        "facebookPlaceId" : "524106154292232",
+        "location" : {
+          "lat" : 50.07820377029,
+          "lon" : 14.454209783313
+        }
+      },
+      "lastUpdate" : "20160917T144117Z",
+      "date" : "20160917"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.45023, 50.07848 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20160917T131535+0200",
+      "endTime" : "20160917T131747+0200",
+      "place" : {
+        "id" : 354764614,
+        "name" : "Farmářské trhy na Jiřáku",
+        "type" : "facebook",
+        "facebookPlaceId" : "119335948146835",
+        "location" : {
+          "lat" : 50.07848,
+          "lon" : 14.45023
+        }
+      },
+      "lastUpdate" : "20160917T144237Z",
+      "date" : "20160917"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.421191, 50.087636 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20160917T141207+0200",
+      "endTime" : "20160917T142353+0200",
+      "place" : {
+        "id" : 354764616,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 50.087636,
+          "lon" : 14.421191
+        }
+      },
+      "lastUpdate" : "20160917T130257Z",
+      "date" : "20160917"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.42143, 50.08702 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20160917T142903+0200",
+      "endTime" : "20160917T152622+0200",
+      "place" : {
+        "id" : 354793080,
+        "name" : "Restaurant White Horse",
+        "type" : "facebook",
+        "facebookPlaceId" : "1374527742875779",
+        "location" : {
+          "lat" : 50.08702,
+          "lon" : 14.42143
+        }
+      },
+      "lastUpdate" : "20160917T144200Z",
+      "date" : "20160917"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.421176103759, 50.087416367586 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20160917T152903+0200",
+      "endTime" : "20160917T154040+0200",
+      "place" : {
+        "id" : 354866746,
+        "name" : "Tyn Cathedral",
+        "type" : "facebook",
+        "facebookPlaceId" : "329441580477982",
+        "location" : {
+          "lat" : 50.087416367586,
+          "lon" : 14.421176103759
+        }
+      },
+      "lastUpdate" : "20160917T144455Z",
+      "date" : "20160917"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.41563, 50.0888599 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20160917T155256+0200",
+      "endTime" : "20160917T160428+0200",
+      "place" : {
+        "id" : 354865372,
+        "name" : "Namesti Jana Palacha",
+        "type" : "facebook",
+        "facebookPlaceId" : "327614037424016",
+        "location" : {
+          "lat" : 50.0888599,
+          "lon" : 14.41563
+        }
+      },
+      "lastUpdate" : "20160917T144255Z",
+      "date" : "20160917"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.41861, 50.08914 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20160917T162211+0200",
+      "endTime" : "20160917T175920+0200",
+      "place" : {
+        "id" : 354863798,
+        "name" : "KAFKA Snob Food",
+        "type" : "facebook",
+        "facebookPlaceId" : "332125586894921",
+        "location" : {
+          "lat" : 50.08914,
+          "lon" : 14.41861
+        }
+      },
+      "lastUpdate" : "20160917T162912Z",
+      "date" : "20160917"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.41563, 50.0888599 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20160917T181304+0200",
+      "endTime" : "20160917T181723+0200",
+      "place" : {
+        "id" : 354865372,
+        "name" : "Namesti Jana Palacha",
+        "type" : "facebook",
+        "facebookPlaceId" : "327614037424016",
+        "location" : {
+          "lat" : 50.0888599,
+          "lon" : 14.41563
+        }
+      },
+      "lastUpdate" : "20160917T162912Z",
+      "date" : "20160917"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.41779, 50.0864199 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20160917T183757+0200",
+      "endTime" : "20160917T201900+0200",
+      "place" : {
+        "id" : 355011630,
+        "name" : "Clam-Gallas Palace",
+        "type" : "facebook",
+        "facebookPlaceId" : "251168314970435",
+        "location" : {
+          "lat" : 50.0864199,
+          "lon" : 14.41779
+        }
+      },
+      "lastUpdate" : "20160917T194806Z",
+      "date" : "20160917"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.41598, 50.08737 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20160917T202248+0200",
+      "endTime" : "20160917T213309+0200",
+      "place" : {
+        "id" : 355071956,
+        "name" : "La Bottega di Finestra",
+        "type" : "facebook",
+        "facebookPlaceId" : "262070067196568",
+        "location" : {
+          "lat" : 50.08737,
+          "lon" : 14.41598
+        }
+      },
+      "lastUpdate" : "20160917T194821Z",
+      "date" : "20160917"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.45941103934164, 50.07837613694272 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20160917T214244+0200",
+      "endTime" : "20160918T120158+0200",
+      "place" : {
+        "id" : 354233375,
+        "name" : "Airbnb",
+        "type" : "home",
+        "location" : {
+          "lat" : 50.07837613694272,
+          "lon" : 14.45941103934164
+        }
+      },
+      "lastUpdate" : "20160918T113744Z",
+      "date" : "20160917"
+    }
+  } ]
+}
