@@ -1,0 +1,40 @@
+# Linter Options
+options:
+  merge-default-rules: true
+  formatter: html
+# File Options
+files:
+  include: 'src/**/*.s+(a|c)ss'
+# Rule Configuration
+rules:
+  border-zero:
+    - 2
+    -
+      convention: none
+  empty-args:
+    - 2
+    -
+      include: true
+  force-attribute-nesting: 0
+  force-element-nesting: 0
+  force-pseudo-nesting: 0
+  indentation: 0 # box-shadow lineup
+  leading-zero:
+    - 2
+    -
+      include: true
+  nesting-depth:
+    - 2
+    -
+      max-depth: 3
+  no-color-keywords: 0
+  no-color-literals:
+    - 0
+    -
+      allow-rgba: true
+  no-qualifying-elements: 0
+  property-sort-order: 0
+  quotes:
+    - 2
+    -
+      style: double
