@@ -1,2 +1,11 @@
 @import "variables";
 @import "../node_modules/font-awesome/scss/font-awesome";
+
+body {
+  margin: 0;
+  padding: 0;
+}
+
+#maptoberfest {
+  height: 100vh;
+}

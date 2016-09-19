@@ -5,8 +5,8 @@
   "main": "index.js",
   "scripts": {
     "build": "webpack",
-    "clean": "rm -rf build/ && mkdir -p build/fonts/",
-    "copy": "cp ./src/index.html build/ && cp node_modules/font-awesome/*/fontawesome-webfont.* build/fonts/",
+    "clean": "rm -rf build/ && mkdir -p build/fonts/ && mkdir build/images/",
+    "copy": "cp ./src/index.html build/ && cp node_modules/font-awesome/*/fontawesome-webfont.* build/fonts/ && cp node_modules/leaflet/dist/images/* build/images/",
     "dev": "webpack-dev-server --config webpack-dev.config.js --inline",
     "postinstall": "typings install",
     "start": "npm-run-all -s clean copy -p dev"
@@ -22,6 +22,7 @@
   },
   "homepage": "https://github.com/giladgray/maptoberfest#readme",
   "devDependencies": {
+    "file-loader": "0.9.0",
     "leaflet": "0.7.7",
     "npm-run-all": "3.1.0",
     "webpack-dev-server": "1.16.1"

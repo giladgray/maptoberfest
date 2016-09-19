@@ -27,6 +27,15 @@ module.exports = {
         test: /\.s[ac]ss$/,
         loader: ExtractTextPlugin.extract("style", "css!autoprefixer!sass"),
         include: SRC,
+      }, {
+        test: /\.css$/,
+        loaders: ["style", "css"],
+      }, {
+        test: /\.png$/,
+        loader: "file?name=images/[name].[ext]",
+      }, {
+        test: /\.(geo)?json$/,
+        loader: "json",
       },
     ],
   },

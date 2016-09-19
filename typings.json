@@ -2,7 +2,7 @@
   "name": "maptoberfest",
   "dependencies": {},
   "globalDependencies": {
-    "leaflet": "registry:dt/leaflet#1.0.0-rc3+20160919070725",
+    "leaflet": "registry:dt/leaflet#0.7.3+20160613144025",
     "react": "registry:dt/react#0.14.0+20160829191040",
     "react-dom": "registry:dt/react-dom#0.14.0+20160412154040"
   }
